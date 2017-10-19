@@ -1,7 +1,10 @@
+
+apply plugin: 'java'
+apply plugin: 'maven'
+
 group 'org.js'
 version '1.0'
 
-apply plugin: 'java'
 
 
 sourceCompatibility = 1.7
